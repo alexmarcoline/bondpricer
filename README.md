@@ -1,2 +1,2 @@
 # bondpricer
-Interactive Bond Pricer
+Interactive Bond Pricer. This pricer has a yield to price calculator, as well as a total return calculator. It also includes a payment schedule.
